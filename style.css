@@ -684,6 +684,10 @@ footer .bottom .links a {
   .feedback .customers .item {
     width: 100%;
   }
+
+  footer .top .logo a {
+    display: none;
+  }
 }
 
 
